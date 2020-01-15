@@ -1,6 +1,5 @@
 # Docker-Server-App
-
-This app simulates a new employee email and password generator for a company.
+A small NodeJS server built Docker
 
 ## Features
 - Build an image from Docker file
