@@ -1,5 +1,5 @@
 # Docker-Server-App
-A small NodeJS server built Docker
+A small NodeJS server built with Docker
 
 ## Features
 - Build an image from Docker file
